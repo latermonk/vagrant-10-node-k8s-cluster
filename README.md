@@ -1,0 +1,1 @@
+# vagrant-10-node-k8s-cluster
